@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: motipy
+Version: 0.1
+Summary: A package for adjusting brightness of images.
+Home-page: https://github.com/username/motipy
+Author: Nama Anda
+Author-email: email@mirnhafebriasari.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Requires-Dist: Pillow
